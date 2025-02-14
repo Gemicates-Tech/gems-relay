@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "3fb882ac-3033-4424-9098-7d45c59f65ea")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 44.45 88.9)
+		(size 64.77 41.91)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5c4665e9-dea7-4b97-947e-e6c6dd0cad86")
+		(property "Sheetname" "MCU"
+			(at 44.45 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu_module.kicad_sch"
+			(at 44.45 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "smart_relay_2_0.3"
+				(path "/3fb882ac-3033-4424-9098-7d45c59f65ea"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 138.43 86.36)
+		(size 64.77 41.91)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cbebe016-515f-431f-8de7-c18ee2ee2fb5")
+		(property "Sheetname" "Power section"
+			(at 138.43 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_section.kicad_sch"
+			(at 138.43 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "smart_relay_2_0.3"
+				(path "/3fb882ac-3033-4424-9098-7d45c59f65ea"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
