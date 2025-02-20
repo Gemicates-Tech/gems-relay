@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprient")(type "KiCad")(uri "D:/Kicad/SMART RELAY/smart_relay_hw-main/smart_relay_two/smart_relay_two_wo_em/v0_3/library/footprient")(options "")(descr ""))
+)

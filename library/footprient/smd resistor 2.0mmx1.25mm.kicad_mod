@@ -1,0 +1,109 @@
+(footprint "smd resistor 2.0mmx1.25mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -5.275 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "7cca4454-db1b-4c07-91bf-96e75bcf2912")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "smd resistor 2.0mmx1.25mm"
+		(at -0.07 3.25 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "755a1463-98f8-435a-8513-80ef6eeb1217")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "smd resistor 2.0mmx1.25mm"
+		(at -0.01 -2.05 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "222b713d-a96a-4654-8912-161fa00ab9de")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c6808561-c339-42be-8cb1-bb403df904ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "583ba7c0-e0e4-44f7-9656-0d8a251f30bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -1 -0.62)
+		(end 1 0.63)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "d39c7247-cb9d-4536-808d-f3a1fc8b8e89")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.22 1.86 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2d1e7f31-2b3a-4ae5-b121-2777a5e182c6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -0.71 0.01)
+		(size 0.425692 1.11)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "a8ddb2c9-e461-4392-8e05-20a552d2687c")
+	)
+	(pad "2" smd roundrect
+		(at 0.71 0.01)
+		(size 0.431389 1.10946)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "cab6572a-98f4-41c9-a533-6c3e03927011")
+	)
+)

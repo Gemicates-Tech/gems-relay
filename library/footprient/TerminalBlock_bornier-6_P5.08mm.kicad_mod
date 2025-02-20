@@ -1,0 +1,418 @@
+(footprint "TerminalBlock_bornier-6_P5.08mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "simple 6pin terminal block, pitch 5.08mm, revamped version of bornier6")
+	(tags "terminal block bornier6")
+	(property "Reference" "J2"
+		(at 29.185 -3.075 180)
+		(layer "F.SilkS")
+		(uuid "68c7964f-be37-4178-9cf0-190435da9c4d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TB007-508-06BE"
+		(at 12.7 4.75 180)
+		(layer "F.Fab")
+		(uuid "55440f0b-275b-4695-bc68-03ff8a67920b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "TerminalBlock_bornier-6_P5.08mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a34122e8-646e-44ac-88ca-77bc181fb319")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6b616da2-7c67-4eb3-a36f-424b692e20f6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e7544346-0786-42eb-a28f-0ee85823eba5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "DigiKey_Part_Number" "102-6207-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e6388bb1-a315-4b64-b165-df84399d5e8f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/TB007-508-06BE/CUI+Devices/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ab2764a5-5747-48af-bb8a-2a7f78090524")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "2~24 Poles, Screw Type, Horizontal, 5.08 Pitch, 24~12 (AWG), Terminal Block Connector"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ea5f85aa-beee-44a8-b7d0-46ea9aa8cf2c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a64f4658-0e59-4228-8ce7-fb335bd5c474")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/TB007-508-06BE/CUI+Devices/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c5c026b2-ffb4-4a21-a735-d4bef67982ef")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendations"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "64ed704d-4141-4eda-8085-1b71375e5800")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "CUI Devices"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9e7e801f-db99-4926-a808-8bdd2a35c83f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "TB007-508-06BE"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eeb265ec-c806-4eda-9160-d108e2516769")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "CUI_purchase_URL" "https://www.cuidevices.com/product/interconnect/connectors/terminal-blocks/tb007-508-series?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5d6b9282-971b-421e-838c-c6b4a3954177")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "CUI"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "81dd2046-9a30-48a5-8ce5-6c15d6b5c075")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.54 -3.81)
+		(end -2.54 3.81)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "da20cb4d-8e99-483c-b72f-02d6b0b21080")
+	)
+	(fp_line
+		(start -2.54 -3.81)
+		(end 27.94 -3.81)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c221b2de-c74b-4e19-b2b5-a72e92fe5d11")
+	)
+	(fp_line
+		(start -2.54 2.54)
+		(end 27.94 2.54)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2d12450b-6d83-4d97-a978-8c0d57ff64fb")
+	)
+	(fp_line
+		(start -2.54 3.81)
+		(end 27.94 3.81)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b82c39e9-7e55-46fc-b622-afb5c4baa526")
+	)
+	(fp_line
+		(start 27.94 3.81)
+		(end 27.94 -3.81)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d1c49618-eb2c-4bba-b10c-6a8526ae3adf")
+	)
+	(fp_line
+		(start -2.75 -4)
+		(end -2.75 4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9ea88332-1457-4849-92a4-e835dbfd69af")
+	)
+	(fp_line
+		(start -2.75 -4)
+		(end 28.15 -4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "86ab3850-4cd9-45e6-aa9b-830c86be6507")
+	)
+	(fp_line
+		(start 28.15 4)
+		(end -2.75 4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "af922c95-420a-46f4-9119-7c49f15460bc")
+	)
+	(fp_line
+		(start 28.15 4)
+		(end 28.15 -4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "66bd8746-6064-4e6e-9b39-e458093ea8f3")
+	)
+	(fp_line
+		(start -2.5 -3.75)
+		(end -2.5 3.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9e7dc319-6205-45aa-b7ef-d5e5c9b36f22")
+	)
+	(fp_line
+		(start -2.5 2.55)
+		(end 27.9 2.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1e936d39-4b17-4be9-906e-e0d41493fc27")
+	)
+	(fp_line
+		(start -2.5 3.75)
+		(end 27.9 3.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0a5d200c-cb91-4dc9-88ff-252aae7fad4a")
+	)
+	(fp_line
+		(start 27.9 -3.75)
+		(end -2.5 -3.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "27f47a60-80d9-495a-8f0c-1bed843b66e9")
+	)
+	(fp_line
+		(start 27.9 3.75)
+		(end 27.9 -3.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d3802935-6872-4226-93e2-5113e69b00b8")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 12.7 0 180)
+		(layer "F.Fab")
+		(uuid "864da1e4-36f1-4ad5-b318-26e1bc3d9057")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 3 3)
+		(drill 1.62)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1e0aa235-d778-47d1-b7eb-edba119308db")
+	)
+	(pad "2" thru_hole circle
+		(at 5.08 0)
+		(size 3 3)
+		(drill 1.62)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5807328f-d760-4cdd-af8d-f5547326f5c4")
+	)
+	(pad "3" thru_hole circle
+		(at 10.16 0)
+		(size 3 3)
+		(drill 1.62)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "98b7e87f-c024-4d1d-89a0-bdb13a4f15eb")
+	)
+	(pad "4" thru_hole circle
+		(at 15.24 0)
+		(size 3 3)
+		(drill 1.62)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9d440d53-db3b-4b1b-b5ea-84e314bf29d2")
+	)
+	(pad "5" thru_hole circle
+		(at 20.32 0)
+		(size 3 3)
+		(drill 1.62)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8aac4413-5156-462c-ba6f-3e0d7ba1e3db")
+	)
+	(pad "6" thru_hole circle
+		(at 25.4 0)
+		(size 3 3)
+		(drill 1.62)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "45e03a26-554c-45fc-8b4b-fda0c6e6e386")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_bornier-6_P5.08mm.wrl"
+		(offset
+			(xyz 12.7 -1 0)
+		)
+		(scale
+			(xyz 0.7 1 1.5001)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/3d model/CUI_DEVICES_TB007-508-06BE.step"
+		(offset
+			(xyz 30.5 -4 0)
+		)
+		(scale
+			(xyz 0.8001 0.9001 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
+)
